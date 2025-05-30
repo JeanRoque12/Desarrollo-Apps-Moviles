@@ -3688,11 +3688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
       "projectName": "ToDoApp.Android",
-      "projectPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+      "projectPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
       "packagesPath": "C:\\Users\\Jean R. Castillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -3714,8 +3714,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
-              "projectPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj"
+            "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
+              "projectPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj"
             }
           }
         }

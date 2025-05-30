@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kTQVATqqlV4=",
+  "dgSpecHash": "akqhQMFoJKM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp.Android\\ToDoApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jean R. Castillo\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
     "C:\\Users\\Jean R. Castillo\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",

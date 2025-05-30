@@ -915,11 +915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
       "projectName": "ToDoApp",
-      "projectPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+      "projectPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
       "packagesPath": "C:\\Users\\Jean R. Castillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp\\obj\\",
+      "outputPath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

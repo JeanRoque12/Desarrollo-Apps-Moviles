@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xsX95dcJgY=",
+  "dgSpecHash": "vT9SlG5t9BY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jean R. Castillo\\Desktop\\Computacion Paralela y Distribuida\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+  "projectFilePath": "C:\\Users\\Jean R. Castillo\\Desktop\\Desarrollo de Aplicicaciones Móviles\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jean R. Castillo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Jean R. Castillo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
